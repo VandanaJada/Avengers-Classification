@@ -5,22 +5,22 @@
 In this data science and machine learning project, I classified famous Avengeres Cast into their roles. We restrict classification to only 5 people,
 
 <br/>Black Widow
-Captain America
-Iron Man
-Hulk
-Thor
-Here is the folder structure,
+<br/>Captain America
+<br/>Iron Man
+<br/>Hulk
+<br/>Thor
+<br/>Here is the folder structure,
 
-UI : This contains ui website code
-Server: Python flask server
-Data_Prep: Contains python notebook for dataset cleaning and model building
-Dataset: Dataset used for our model training
-Technologies used in this project,
+<br/>UI : This contains ui website code
+<br/>Server: Python flask server
+<br/>Data_Prep: Contains python notebook for dataset cleaning and model building
+<br/>Dataset: Dataset used for our model training
+<br/>Technologies used in this project,
 
-Python
-Numpy and OpenCV for data cleaning
-Matplotlib & Seaborn for data visualization
-Sklearn for model building
-Jupyter notebook, visual studio code and pycharm as IDE
-Python flask for http server
-HTML/CSS/Javascript for UI
+<br/>Python
+<br/>Numpy and OpenCV for data cleaning
+<br/>Matplotlib & Seaborn for data visualization
+<br/>Sklearn for model building
+<br/>Jupyter notebook, visual studio code as IDE
+<br/>Python flask for http server
+<br/>HTML/CSS/Javascript for UI
