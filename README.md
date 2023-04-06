@@ -1,26 +1,27 @@
-# Avengers-Classification
+# Avengers Cast Role Classification Project
 
 ![image](https://user-images.githubusercontent.com/85215744/230255670-f7b76b39-2ee8-47ef-bb62-c9441446e98a.png)
 
-In this data science and machine learning project, I classified famous Avengeres Cast into their roles. We restrict classification to only 5 people,
 
-<br/>Black Widow
-<br/>Captain America
-<br/>Iron Man
-<br/>Hulk
-<br/>Thor
-<br/>Here is the folder structure,
+This project aims to classify famous Avengers cast members into their respective roles, focusing on five characters: Black Widow, Captain America, Iron Man, Hulk, and Thor. The project has been structured into three main components: a user interface, a server, and a data preparation folder containing the Python notebooks used for dataset cleaning and model building. 
 
-<br/>UI : This contains ui website code
-<br/>Server: Python flask server
-<br/>Data_Prep: Contains python notebook for dataset cleaning and model building
-<br/>Dataset: Dataset used for our model training
-<br/>Technologies used in this project,
+## Technologies Used
+- Python 
+- Numpy and OpenCV for data cleaning 
+- Matplotlib & Seaborn for data visualization 
+- Scikit-learn for model building 
+- Jupyter Notebook and Visual Studio Code as IDE 
+- Python Flask for HTTP server 
+- HTML/CSS/JavaScript for the user interface
 
-<br/>Python
-<br/>Numpy and OpenCV for data cleaning
-<br/>Matplotlib & Seaborn for data visualization
-<br/>Sklearn for model building
-<br/>Jupyter notebook, visual studio code as IDE
-<br/>Python flask for http server
-<br/>HTML/CSS/Javascript for UI
+## Folder Structure
+- `UI`: This folder contains the code for the user interface website
+- `Server`: This folder contains the code for the Python Flask server
+- `Data_Prep`: This folder contains the Python notebooks used for dataset cleaning and model building
+- `Dataset`: This folder contains the dataset used for the model training
+
+By classifying Avengers cast members into their roles, this project can help fans and movie producers understand how each actor embodies their character's traits and behavior, and potentially inform future casting decisions.
+
+
+
+
